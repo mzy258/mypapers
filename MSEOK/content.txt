@@ -1,0 +1,114 @@
+│  content.txt
+│  readme.txt
+│  时间节点及讨论组订阅.txt
+│  时间节点及讨论组订阅2.txt
+│  硕士专业学位论文评价表（工程硕士－产品研发类）.doc
+│  硕士专业学位论文评价表（工程硕士－应用研究类）.doc
+│  防止抄袭.txt
+│  
+├─国内外学术期刊会议论文
+│  │  contextBasedGovServices.pdf
+│  │  Massively Multiplayer Online Games.pdf
+│  │  Using concept maps to evaluate the usability of APIs.pdf
+│  │  
+│  ├─Early warning management system
+│  ├─UML
+│  │      A Framework for Transforming Structured Analysis and Design Artifacts to UML.pdf
+│  │      A systematic review of UML model consistency management.pdf
+│  │      A UML Profile for SOA.pdf
+│  │      An object-oriented approach to formally analyze the UML 2.0 activity partitions.pdf
+│  │      Domain-specific language modelling with UML profiles by decoupling abstract and concrete syntaxes.pdf
+│  │      Modeling and specification ofWeb services composition using UML-s.pdf
+│  │      Representing Web Services with UML A Case Study.pdf
+│  │      Towards Modeling Web Service Composition in UML.pdf
+│  │      Towards_a_UML_Profile_for_Service-Oriented_Architectures.pdf
+│  │      transformation of uml design model into performance model_a model-driven framework.pdf
+│  │      
+│  ├─考试系统
+│  │      Context-aware+customization+e-learning+system+with+intelligent+on-line+examination+mechanism.pdf
+│  │      Wiki-based+collaborative+learning_incorporating+self-assessment+tasks.pdf
+│  │      
+│  └─需求分析
+│          Requirements Analysis and Modeling with Problem Frames and SysML_A Case Study.pdf
+│          
+├─往届同学的例子
+│  ├─上海市盲审表例子
+│  │      上海市学位论文“双盲”检查简况表-fill.doc
+│  │      盲审简况表.doc
+│  │      
+│  ├─往届PPT例子
+│  │      MSE2009届秋季学位论文答辩稿_王昊_073053133.ppt
+│  │      孙时明_元数据驱动的通用Portal系统的设计与实现_20060415.ppt
+│  │      张静铀.ppt
+│  │      硕士答辩_罗胜涛_043053137_基于Web Services的统一权限系统.ppt
+│  │      硕士答辩_袁昕晔_073053132_银行字符终端的自动化回归测试工具的设计与实现.ppt
+│  │      答辩(叶傲冬)(冲突2010-10-29 09-51-30).ppt
+│  │      答辩-曹菁菁.ppt
+│  │      董惟_基于分布式结构的数据业务管理系统.ppt
+│  │      赵怡_083053031_答辩PPT.ppt
+│  │      
+│  ├─往届学位申请书例子
+│  │      基于rbac模型的通用权限管理组件的设计与实现.doc
+│  │      
+│  ├─往届开题报告例子
+│  │      kaitibaogao陈韬.doc
+│  │      开题报告(李宁).doc
+│  │      开题报告-施迅.doc
+│  │      开题报告修改示例刘文泉.rar
+│  │      
+│  ├─往届论文例子
+│  │      刘宇_J2ME游戏的通用图形特效库实现及优化.doc
+│  │      刘宇_J2ME游戏的通用图形特效库实现及优化.pdf
+│  │      周俊_CRM项目中动态引擎的设计与实现.doc
+│  │      基于UML的上海博物馆网站开发应用.pdf
+│  │      基于WCF的网上订货系统.doc
+│  │      姜俊萍 基于RBAC模型的通用权限管理组件的设计与实现 Jiang_PS_89238506f074457edcad6809b993df49.doc
+│  │      张巍_基于设计结构矩阵的长途综合预处理系统设计与实现.doc
+│  │      张晓欧_组播与单播相结合的下载系统的设计和实现.docx
+│  │      李勇_海量数据管理系统优化设计.doc
+│  │      王彬.rar
+│  │      田玮.rar
+│  │      罗胜涛_060204_基于Web Services的统一权限系统.doc
+│  │      罗胜涛_060204_基于Web Services的统一权限系统.rar
+│  │      裘虹 基于J2EE框架的通用审批管理系统 PS_1836_20100321093922.doc
+│  │      谭哲锋_大型多人在线网络游戏中无缝地图的研究与实现.doc
+│  │      
+│  └─往届部分投稿学术期刊的论文
+│          基于web services的统一权限系统_计算机工程2006年24期.doc
+│          
+├─论文指导
+│      1. 选题及开题报告.doc
+│      1.1开题报告示例.doc
+│      1.2论文可用资源及参考文献.doc
+│      1.3学院网站上开题报告注意事项.doc
+│      10. 论文具体问题_如何表述得更清楚更有条理.docx
+│      2. 论文结构.doc
+│      2.1 论文结构_设计方案部分的节和小节.doc
+│      2.2 论文结构_修改实例.doc
+│      2.3 论文结构_关键技术问题.doc
+│      2.4 论文结构_软件设计论文的网络架构.doc
+│      2.a 论文结构样例_开发特效库并应用于项目.txt
+│      2.b 论文结构样例_将新的方法应用于项目.txt
+│      2.c 论文结构样例_开发一个系统.txt
+│      3. 论文具体问题-创新.doc
+│      3.a 论文具体问题-创新-论文研读-Using Concept Maps to Evaluate the Usability of APIs.doc
+│      3.b 论文具体问题-创新-论文研读-Towards Ubiquitous Government Services through Adaptations with Context and Views in a Three-Tier Architecture.doc
+│      4. 论文具体问题_项目文档问题.doc
+│      5a. 论文具体问题_用自己的话，体现自己工作.doc
+│      5b. 论文具体问题_在语气上体现自己工作.doc
+│      6. 论文具体问题_罗列问题_修改实例.doc
+│      7. 论文具体问题_代码问题.doc
+│      8. 论文具体问题_先总后分实例.doc
+│      90. 答辩.doc
+│      90a. 答辩_体现核心工作.doc
+│      90b答辩-讲解时避免罗列.docx
+│      90c答辩-问题举例.docx
+│      
+└─论文赏析
+        A systematic literature review of empirical evidence on computer games and serious games2.pdf
+        An educational game for teaching Earned Value Management in computing courses.pdf
+        Flexible Generators for Software Reuse and Evolution.docx
+        Problem solving and collaboration using mobile serious games.pdf
+        Serious games and learning effectiveness_The case of It's a Deal.pdf
+        Towards a Serious Game toHelp Students Learn.pdf
+        
